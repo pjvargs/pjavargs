@@ -1,213 +1,103 @@
+<!--
+  GitHub profile README for @pjvargs
+  Publish this file as README.md in a PUBLIC repository named exactly "pjvargs".
+  The header and badges use third-party image services; the profile content works without them.
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Pierce John
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:123D72,100:1687D9&height=205&section=header&text=PIERCE%20JOHN&fontColor=FFFFFF&fontSize=47&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20LIFE%20%26%20TECH&descSize=15&descAlignY=59" alt="Pierce John — Software Development | Life & Tech" />
 
-### Software Developer • AI Automation Developer
+### Building practical software. Exploring what's next.
 
-**Building practical software, intelligent automation, and digital solutions.**
+Developer focused on **web applications**, **business systems**, and **better digital workflows**.  
+Currently exploring **AI automation**, **API integrations**, and modern full-stack development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Life%20%26%20Tech-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://lifeandtechpjv.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vargaspiercejohn@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-pjvargs-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pjvargs)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIFE%20%26%20TECH-2563EB?style=for-the-badge&labelColor=0B1220&logo=netlify&logoColor=white)](https://lifeandtechpjv.netlify.app/)
+[![Email](https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-2563EB?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=white)](mailto:vargaspiercejohn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-%40pjvargs-2563EB?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white)](https://github.com/pjvargs)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` / About me
 
-I'm **Pierce John**, a developer focused on building software that solves real-world problems.
+I'm **Pierce John**, the person behind **Life & Tech**. I enjoy turning everyday problems into useful software—particularly web apps, inventory tools, information systems, and workflow-focused projects.
 
-I enjoy creating **web applications, automation tools, database-driven systems, and AI-powered solutions** that simplify workflows and improve productivity.
+- 🧩 **I build:** web applications, record-management tools, and database-backed systems.
+- 🛠️ **I care about:** practical features, clear interfaces, and maintainable projects.
+- 🌱 **I'm learning more about:** Python, AI automation, API integrations, and modern web architecture.
+- 📍 **Based in:** Batanes, Philippines.
 
-```python
-pierce = {
-    "role": [
-        "Software Developer",
-        "AI Automation Developer"
-    ],
-    "interests": [
-        "Artificial Intelligence",
-        "Automation",
-        "Web Development",
-        "Database Systems",
-        "Data Analytics"
-    ],
-    "goal": "Build useful technology that makes work smarter."
-}
-```
+> **My approach:** Build what is useful. Automate what is repetitive. Keep improving.
 
----
+## `02` / Tech stack
 
-## ⚡ Tech Stack
+**Languages & front-end**
 
-### Languages
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=3776AB)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
+**Frameworks, databases & tools used in projects**
 
-### Database
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=58A6FF)
+![MariaDB](https://img.shields.io/badge/MariaDB-0B1220?style=flat-square&logo=mariadb&logoColor=C49A6C)
+![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
+**Currently exploring** `AI automation` · `API integration` · `Full-stack development` · `Intelligent web apps`
 
-### Development Tools
+## `03` / Selected projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+| Project | What it does | Technology |
+|:--|:--|:--|
+| **[Inventory System](https://github.com/pjvargs/Inventory-System)** | Inventory dashboard, items, stock cards, categories, and reports. | Next.js · PostgreSQL |
+| **[Supply Ledger Card](https://github.com/pjvargs/Supply-Ledger-Card)** | Tracks receipts, issues, running balances, and summaries, with printable views and Excel export. | Python · SQLite |
+| **[LUCA Student Help Desk](https://github.com/pjvargs/Student-Help-Desk-System---LUCA)** | Student and moderator pages for announcements, schedules, messaging, and account management. | PHP · MariaDB |
+| **[Life & Tech Portfolio](https://github.com/pjvargs/life-and-tech-portfolio)** | Personal website and home for my work in technology. | HTML · CSS |
+| **[BDEPTS Profiling System](https://github.com/pjvargs/Profiling-System---BDEPTS)** | A profiling-system project. | JavaScript |
 
-### Technologies & Interests
+**Live portfolio:** [lifeandtechpjv.netlify.app](https://lifeandtechpjv.netlify.app/)
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-111111?style=for-the-badge&logo=robotframework&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-161616?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-202020?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
----
-
-## 🚀 What I Build
+## `04` / What I'm working toward
 
 ```text
-Software Development
-│
-├── 🌐 Web Applications
-├── 🤖 AI-Powered Solutions
-├── ⚙️ Workflow Automation
-├── 🗄️ Database Systems
-├── 📊 Data-Driven Applications
-└── 🛠️ Administrative Systems
+LIFE & TECH  /  ROADMAP
+────────────────────────────────
+[✓] Build useful web-based systems
+[✓] Work with SQL-backed applications
+[→] Strengthen Python development
+[→] Explore AI-powered workflows
+[→] Build API-connected applications
+[→] Ship more polished live demos
 ```
 
-My focus is not simply writing code — it's creating systems that make processes **faster, easier, and more efficient**.
-
----
-
-## 🔥 Featured Projects
-
-### 📦 Project 01 — Coming Soon
-
-> A featured software project showcasing practical system development and automation.
-
-`Python` `Web Development` `PostgreSQL`
-
----
-
-### 🤖 Project 02 — Coming Soon
-
-> An AI or automation-focused project designed to reduce repetitive work.
-
-`Python` `AI` `Automation`
-
----
-
-### 📊 Project 03 — Coming Soon
-
-> A data-driven application designed to organize information and improve workflow efficiency.
-
-`Database` `Analytics` `Web Development`
-
----
-
-## 🧠 Currently Exploring
-
-```text
-┌─────────────────────────────────────┐
-│           CURRENT FOCUS             │
-├─────────────────────────────────────┤
-│  🤖 AI Automation                   │
-│  🧠 AI-Powered Applications         │
-│  🔗 API Integration                 │
-│  ⚙️ Workflow Automation             │
-│  🐍 Python Development              │
-│  🌐 Modern Web Development          │
-│  🗄️ Database Architecture           │
-└─────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Dashboard
+## `05` / GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pjvargs&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pjvargs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub activity statistics for pjvargs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjvargs&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" alt="Languages used across public GitHub repositories" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjvargs&layout=compact&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E" />
+<sub>Statistics are provided by a third-party service and may occasionally be unavailable.</sub>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pjvargs&theme=transparent&hide_border=true" />
+### Let's build something useful.
 
-</div>
+Open to connecting about software projects, collaboration, and ideas.  
+**[Explore my portfolio](https://lifeandtechpjv.netlify.app/) · [Email me](mailto:vargaspiercejohn@gmail.com)**
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pjvargs&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pjvargs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
-
----
-
-## 💡 Developer Mindset
-
-> **Build what is useful.**  
-> **Automate what is repetitive.**  
-> **Improve what can be better.**  
-> **Keep learning.**
-
----
-
-## 🌐 Life & Tech
-
-My personal portfolio and development space where I showcase my projects, experiments, and journey in technology.
-
-### 🚀 [lifeandtechpjv.netlify.app](https://lifeandtechpjv.netlify.app/)
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities and collaborations involving:
-
-`Software Development` • `AI Automation` • `Python` • `Web Development` • `Database Systems`
-
-📧 **Email:** [vargaspiercejohn@gmail.com](mailto:vargaspiercejohn@gmail.com)
-
-🌐 **Portfolio:** [Life & Tech](https://lifeandtechpjv.netlify.app/)
-
-🐙 **GitHub:** [@pjvargs](https://github.com/pjvargs)
-
----
-
-<div align="center">
-
-### `Code • Build • Automate • Improve`
-
-![Profile Views](https://komarev.com/ghpvc/?username=pjvargs&style=flat-square&color=00D9FF)
-
-⭐ **Thanks for visiting my profile!**
+<sub>© Life & Tech · <a href="https://github.com/pjvargs">@pjvargs</a></sub>
 
 </div>
