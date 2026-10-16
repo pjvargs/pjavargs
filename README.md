@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:123D72,100:1687D9&height=205&section=header&text=PIERCE%20JOHN&fontColor=FFFFFF&fontSize=47&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20LIFE%20%26%20TECH&descSize=15&descAlignY=59" alt="Pierce John — Software Development | Life & Tech" />
+
 
 ### Building practical software. Exploring what's next.
 
